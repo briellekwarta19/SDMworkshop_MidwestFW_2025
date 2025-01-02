@@ -18,7 +18,7 @@ tagline: SDM Course
 description: SDM
 author: Brielle K Thompson
 baseurl: '/SDMworkshop_MidwestFW_2025' # the subpath of your site, e.g. /blog
-url: 'https://briellekt.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://briellekwarta19.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Brielle K Thompson:
+    - 'https://briellekwarta19.github.io/personal_site/index.html'
+  Workshop on GitHub:
+    - 'https://github.com/briellekwarta19/SDMworkshop_MidwestFW_2025'
 footer_content:
 
 # Collections for website data
@@ -39,9 +39,16 @@ collections:
   staffers:
   modules:
   schedules:
-  announcements:
 # Default layouts for each collection type
 defaults:
+  - scope:
+      path: ''
+      type: staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
   - scope:
       path: ''
       type: modules

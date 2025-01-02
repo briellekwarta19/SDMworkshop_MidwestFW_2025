@@ -23,17 +23,22 @@ Fish and wildlife management involves making difficult decisions concerning natu
 
 ## Modules
 
-There will be 7 modules in the workshop: 
-1. Introduction: Motivation for Structured Decision Making
-2. Problem Framing
-3. Objectives
-4. Alternatives
-5. Consequences	
-6. Tradeoffs
-7. Conclusion	
+There will be 7 modules in the workshop following the PrOACT process
+
+1. Introduction: Motivation for Structured Decision Making ([pdf file](01_Introduction.pdf))
+2. Problem Framing ([pdf file](02_ProblemFraming.pdf))
+3. Objectives ([pdf file](03_Objectives.pdf))
+4. Alternatives ([pdf file](04_Alternatives.pdf))
+5. Consequences	([pdf file](05_Consequences.pdf))
+6. Tradeoffs ([pdf file](06_Tradeoffs.pdf))
+7. Conclusion	([pdf file](07_Conclusions.pdf))
 
 ## Resources
-
+- Structured Decision Making Book (Runge et al. 2020)
+- Review paper: An introduction to decision science for conservation ([Hemming et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cobi.13868))
+- Smart Choices book (John S. Hammond, Ralph L Keeney, Howard Raiffa)
+- National Conservation Training Center [videos](https://www.fws.gov/training/ALC3183-an-overview-of-structured-decision-making)
+- Structured Decision Making [website](https://www.structureddecisionmaking.org/resources/)
 
 ## References
 The material for this workshop has bene modified from: 

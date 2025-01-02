@@ -8,4 +8,8 @@ seo:
   name: SDM workshop Midwest FW Conference
 ---
 
-## Information about the class
+# Workshop Website for:
+
+## An overview of Structured Decision Making for natural resources, Midwest Fish and Wildlife Conference 2025, St. Louis, MO
+
+![PrOACT](Proact.png)

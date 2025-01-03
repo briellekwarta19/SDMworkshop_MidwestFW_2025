@@ -52,6 +52,9 @@ Here is a brief [description of the case study](CaseStudyDescription.pdf).
 
 ## References
 The material for this workshop has been modified from: 
-- Fundamentals of Structured Decision Making The Wildlife Society Conference Workshop 2023
-- An Overview of Structured Decision-Making Washington Department of Fish and Wildlife 2022 & 2023
+- Runge MC, Cochrane JF, Converse SJ, Szymanski JA, Smith DR, Lyons JE, Eaton MJ, Matz A, Barrett P, Nichols JD, Parkin MJ. 2015. An overview of structured decision making, revised edition. U.S. Fish and Wildlife Service, National Conservation Training Center, Shepherdstown, West Virginia, USA. 
+- Runge MC, Converse SJ, Sells SN, Thompson BK, and Isham AF. 2023. Workshop:
+Fundamentals of Structured Decision Making. The Wildlife Society Annual Conference,
+November 5, 2023. Louisville, Kentucky.
+- An Overview of Structured Decision-Making for Washington Department of Fish and Wildlife 2022 & 2023
 

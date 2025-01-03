@@ -26,19 +26,19 @@ Fish and wildlife management involves making difficult decisions concerning natu
 There will be 7 modules in the workshop following the PrOACT process
 
 1. Introduction: Motivation for Structured Decision Making ([pdf file](01_Introduction.pdf))
-2. Problem Framing ([pdf file](02_ProblemFraming.pdf))
-3. Objectives ([pdf file](03_Objectives.pdf))
-4. Alternatives ([pdf file](04_Alternatives.pdf))
-5. Consequences	([pdf file](05_Consequences.pdf))
-6. Tradeoffs ([pdf file](06_Tradeoffs.pdf))
-7. Conclusion	([pdf file](07_Conclusions.pdf))
+2. Problem Framing -[pdf file](02_ProblemFraming.pdf)
+3. Objectives -[pdf file](03_Objectives.pdf)
+4. Alternatives -[pdf file](04_Alternatives.pdf)
+5. Consequences	-[pdf file](05_Consequences.pdf)
+6. Tradeoffs -[pdf file](06_Tradeoffs.pdf)
+7. Conclusion	-[pdf file](07_Conclusions.pdf)
 
 ### Case study
-In each module, we will practice the PrOACT process of Structured Decision Making by following a real life case study [Runge et al.2011](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf)
+In each module, we will practice the PrOACT process of Structured Decision Making by following a real life case study [Runge et al. 2011](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf)
 
 The real life example follows a SDM process to manage nonnative trout below the Glen Canyon Dam in Arizona.
 
-Here is a brief ([description](CaseStudyDescription.pdf)) of the case study. 
+Here is a brief [description of the case study](CaseStudyDescription.pdf). 
 
 ## Resources
 - Structured Decision Making Book (Runge et al. 2020)

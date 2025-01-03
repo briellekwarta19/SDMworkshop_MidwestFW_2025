@@ -12,4 +12,6 @@ seo:
 
 ## An overview of Structured Decision Making for natural resources, Midwest Fish and Wildlife Conference 2025, St. Louis, MO
 
+### Instructors: Brielle Thompson & Mike Colvin
+
 ![PrOACT](Proact.png)

@@ -20,7 +20,9 @@ description: >-
 
 ### Overview 
 Fish and wildlife management involves making difficult decisions concerning natural resource problems. Familiar natural resource problems may include decisions on how many acres of land must be protected, how an endangered species should be reintroduced, whether an agency should conduct more monitoring of an invasive species, etc. The field of decision analysis offers tools such as Structured Decision Making (SDM) to help frame, structure, and identify solutions for such problems. Various Federal and State fish and wildlife agencies are increasingly using SDM to ensure a streamlined, fair, unbiased, and organized decision-making process. 
+
 This workshop will provide an introduction to SDM and its key components (PrOACT): **Pr**oblem framing- describing the natural resource management problem; articulating **O**bjectives; developing management **A**lternatives; using forecasting tools to evaluate the **C**onsequences, or outcomes, of alternatives, and using **T**radeoff methods to identify management alternatives when decisions involve multiple competing objectives.
+
 Throughout the workshop the instructors will provide real world case study examples and offer opportunities for participatory discussion. The workshop will involve a hands-on protype experience of a SDM process. 
 
 ## Modules

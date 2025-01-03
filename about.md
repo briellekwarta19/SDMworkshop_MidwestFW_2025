@@ -34,7 +34,7 @@ There will be 7 modules in the workshop following the PrOACT process
 7. Conclusion	([pdf file](07_Conclusions.pdf))
 
 ### Case study
-In each module, we will practice the PrOACT process of Structured Decision Making by following a real life case study (Runge et al., 2011 ([report](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf) )
+In each module, we will practice the PrOACT process of Structured Decision Making by following a real life case study [Runge et al.2011](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf)
 
 The real life example follows a SDM process to manage nonnative trout below the Glen Canyon Dam in Arizona.
 

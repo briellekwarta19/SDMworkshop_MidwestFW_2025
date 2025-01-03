@@ -18,27 +18,26 @@ description: >-
 
 ## About
 
-### Overview 
 Fish and wildlife management involves making difficult decisions concerning natural resource problems. Familiar natural resource problems may include decisions on how many acres of land must be protected, how an endangered species should be reintroduced, whether an agency should conduct more monitoring of an invasive species, etc. The field of decision analysis offers tools such as Structured Decision Making (SDM) to help frame, structure, and identify solutions for such problems. Various Federal and State fish and wildlife agencies are increasingly using SDM to ensure a streamlined, fair, unbiased, and organized decision-making process. 
 
-This workshop will provide an introduction to SDM and its key components (PrOACT): **Pr**oblem framing- describing the natural resource management problem; articulating **O**bjectives; developing management **A**lternatives; using forecasting tools to evaluate the **C**onsequences, or outcomes, of alternatives, and using **T**radeoff methods to identify management alternatives when decisions involve multiple competing objectives.
+This workshop will provide an introduction to SDM and its key components (**PrOACT**): **Pr**oblem framing- describing the natural resource management problem; articulating **O**bjectives; developing management **A**lternatives; using forecasting tools to evaluate the **C**onsequences, or outcomes, of alternatives, and using **T**radeoff methods to identify management alternatives when decisions involve multiple competing objectives.
 
 Throughout the workshop the instructors will provide real world case study examples and offer opportunities for participatory discussion. The workshop will involve a hands-on protype experience of a SDM process. 
 
 ## Modules
 
-There will be 7 modules in the workshop following the PrOACT process
+There will be 7 modules in the workshop following the **PrOACT** process
 
-1. Introduction: Motivation for Structured Decision Making ([pdf file](01_Introduction.pdf))
-2. Problem Framing -[pdf file](02_ProblemFraming.pdf)
-3. Objectives -[pdf file](03_Objectives.pdf)
-4. Alternatives -[pdf file](04_Alternatives.pdf)
-5. Consequences	-[pdf file](05_Consequences.pdf)
-6. Tradeoffs -[pdf file](06_Tradeoffs.pdf)
+1. Introduction: Motivation for Structured Decision Making -[pdf file](01_Introduction.pdf)
+2. **Pr**oblem Framing -[pdf file](02_ProblemFraming.pdf)
+3. **O**bjectives -[pdf file](03_Objectives.pdf)
+4. **A**lternatives -[pdf file](04_Alternatives.pdf)
+5. **C**onsequences	-[pdf file](05_Consequences.pdf)
+6. **T**radeoffs -[pdf file](06_Tradeoffs.pdf)
 7. Conclusion	-[pdf file](07_Conclusions.pdf)
 
 ### Case study
-In each module, we will practice the PrOACT process of Structured Decision Making by following a real life case study [Runge et al. 2011](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf)
+In each module, we will practice the **PrOACT** process of Structured Decision Making by following a real life case study [Runge et al. 2011](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf)
 
 The real life example follows a SDM process to manage nonnative trout below the Glen Canyon Dam in Arizona.
 
@@ -52,7 +51,7 @@ Here is a brief [description of the case study](CaseStudyDescription.pdf).
 - Structured Decision Making [website](https://www.structureddecisionmaking.org/resources/)
 
 ## References
-The material for this workshop has bene modified from: 
-- Fundamentals of Structured Decision Making The Wildlife SOciety Conference Workshop 2023
+The material for this workshop has been modified from: 
+- Fundamentals of Structured Decision Making The Wildlife Society Conference Workshop 2023
 - An Overview of Structured Decision-Making Washington Department of Fish and Wildlife 2022 & 2023
 

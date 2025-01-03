@@ -12,4 +12,6 @@ description: A listing of all the course instructors.
 - Research focuses on decision making applications to invasive species
 - Current project: Developing invasive Prussian carp monitoring protocols 
 
-## Mike Colvin
+## [Mike Colvin](https://www.usgs.gov/staff-profiles/mike-colvin)
+- Research Ecologist at USGS Columbia Environmental Research Center
+- Received PhD in 2012 at Iowa State University

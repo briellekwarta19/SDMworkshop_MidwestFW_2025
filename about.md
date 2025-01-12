@@ -44,6 +44,7 @@ The real life example follows a SDM process to manage nonnative trout below the 
 Here is a brief [description of the case study](CaseStudyDescription.pdf). 
 
 ## Resources
+- [Structured Decision Making Cheat Sheet](SDMworksheet.pdf)
 - Structured Decision Making Book (Runge et al. 2020)
 - Review paper: An introduction to decision science for conservation ([Hemming et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cobi.13868))
 - Smart Choices book (John S. Hammond, Ralph L Keeney, Howard Raiffa)
